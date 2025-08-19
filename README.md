@@ -3,7 +3,7 @@
 ## Ps-multijob is a script designed to be able to display your current jobs as well as switching between them. https://github.com/Project-Sloth/ps-multijob
 ### To change ui simply copy the contents of the ui u want from its css file and replace the contents of the index.css with that.
 
-*If you get a scroll bar with the ui use this to hide it by pasting at the bottom, see check light-blue for example.*
+*If you get a scroll bar with the ui use this to hide it by pasting at the bottom. Scrolling still fuctions, See check light-blue for example.*
 ```lua
 ::-webkit-scrollbar {
     width: 0px;
