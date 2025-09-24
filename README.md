@@ -45,3 +45,11 @@
 - 8 purple
 <img width="1920" height="1080" alt="9 purple" src="https://github.com/user-attachments/assets/d1cfcf94-36c6-4c60-98e1-014dec1a67e6" />
 
+
+
+
+## 📞 Support & Community
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aTBsSZe5C6) ***https://discord.gg/rKtSsC33***
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YourRepositories](https://github.com/MnCLosSantos)) ***https://github.com/MnCLosSantos***
