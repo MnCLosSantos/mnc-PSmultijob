@@ -24,7 +24,6 @@ Config.WhitelistJobs = {
 Config.Descriptions = {
 	["police"] = "Shoot some criminals or maybe be a good cop and arrest them",
 	["ambulance"] = "Fix the bullet holes",
-	["autoexotics"] = "Fix the bullet holes n shit",
 	["tow"] = "Pickup the tow truck and steal some vehicles",
 	["taxi"] = "Pickup people around the city and drive them to their destination",
 	["bus"] = "Pickup multiple people around the city and drive them to their destination",
